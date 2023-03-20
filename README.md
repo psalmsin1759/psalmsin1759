@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **blockchain app for bills payment in Nigeria**
 
-- 👨‍💻 All of my projects are available at [samson.qnetixtechnologies.com](samson.qnetixtechnologies.com)
+- 👨‍💻 All of my projects are available at [https://samsonude.dev](https://samsonude.dev)
 
 - 💬 Ask me about **java, swift, dart, flutter, php, laravel, react, node**
 
