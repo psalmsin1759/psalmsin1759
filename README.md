@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a full stack developer with engineering background</h1>
+<h1 align="center">Hi 👋, I'm a Senior software engineer with engineering background</h1>
 <h3 align="center">I'm a Full-Stack Developer from Nigeria. I have experience building and scaling web/mobile applications and services in various verticals. I also enjoy building side projects in my free time.</h3>
 
 - 🔭 I’m currently working on **blockchain app for bills payment in Nigeria**
