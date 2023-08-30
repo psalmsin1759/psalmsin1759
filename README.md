@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samson Ude</h1>
 
 
-I'm a results-driven Senior Software Engineer with over a decade of experience in crafting innovative and scalable software solutions. My journey began with a Bachelor's degree in Electrical/Electronics Engineering from the University of Ibadan, Nigeria. From there, I embarked on a professional journey that led me to become a seasoned expert in the field of software development.
+I'm a results-driven Senior Software Engineer with over a decade of experience in crafting innovative and scalable software solutions. My journey began with a Bachelor's degree in Electrical/Electronics Engineering from the University of Ibadan. From there, I embarked on a professional journey that led me to become a seasoned expert in the field of software development.
 
 Throughout my career, I have been at the forefront of creating high-performance software applications that align with business objectives and drive customer satisfaction. With a passion for both frontend and backend technologies, I possess a versatile skill set that encompasses a wide range of programming languages and frameworks.
 
