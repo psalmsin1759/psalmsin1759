@@ -6,6 +6,15 @@
 
 ☁️ My cloud expertise extends to Google Cloud Platform (GCP) and AWS, where I've harnessed the full potential of cloud services to scale applications, optimize performance, and enhance security.
 
+---
+
+📖 <b>Recent Blog Posts</b>
+
+- 🤖 <a href="https://samsonude.dev/laravel/google/2023/08/31/laravel-pubsub/">Implementing Laravel Pub/Sub for Background Processing</a>
+- 🛒 <a href="https://samsonude.dev/flutter/2023/08/31/flutter-cart-provider/">Building a Flutter Shopping Cart with Provider </a>
+
+---
+
 
 - 📫 How to reach me **samson_ude@yahoo.com**
 
