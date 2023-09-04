@@ -12,6 +12,7 @@
 
 - 🤖 <a href="https://samsonude.dev/laravel/google/2023/08/31/laravel-pubsub/">Implementing Laravel Pub/Sub for Background Processing</a>
 - 🛒 <a href="https://samsonude.dev/flutter/2023/08/31/flutter-cart-provider/">Building a Flutter Shopping Cart with Provider </a>
+- 🛒 <a href="[https://samsonude.dev/flutter/2023/08/31/flutter-cart-provider/](https://samsonude.dev/laravel/google/2023/09/04/building-store-locator-api-laravel-swagger/)">Store locator api with Laravel Sail (Docker) and swagger </a>
 
 ---
 
