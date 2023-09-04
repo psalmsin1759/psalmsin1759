@@ -15,9 +15,11 @@
 
 ---
 
-
-- 📫 How to reach me <a href="mailto:samson_ude@yahoo.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=yahoo&logoColor=white" />
+<h3 align="left">📫 How to reach me :</h3>
+<p align="left">
+<a href="mailto:samson_ude@yahoo.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=yahoo&logoColor=white" /> </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
