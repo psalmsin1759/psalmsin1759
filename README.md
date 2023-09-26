@@ -14,6 +14,7 @@
 - 🛒 <a href="https://samsonude.dev/flutter/2023/08/31/flutter-cart-provider/">Building a Flutter Shopping Cart with Provider </a>
 - 📍 <a href="https://samsonude.dev/laravel/google/2023/09/04/building-store-locator-api-laravel-swagger/">Store locator api with Laravel Sail (Docker) and swagger </a>
 - 📍 <a href="https://samsonude.dev/flutter/google/2023/09/07/building-store-locator-app-with-google-maps-in-flutter/">Building a Store Locator App with Google Maps in Flutter </a>
+- 🛒 <a href="https://samsonude.dev/laravel/2023/09/24/upload-file-to-google-storage-bucket/">Uploading Files/Images to Google Cloud Storage Bucket: A Comprehensive Guide </a>
 
 ---
 
