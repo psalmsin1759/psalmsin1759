@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samson Ude</h1>
 
-👋 Hey there! I'm Samson Ude, a passionate Senior Software Engineer with over a decade of experience. I specialize in crafting robust, high-performance software solutions that meet business objectives and drive customer satisfaction.
+Hey there! I'm Samson Ude, a passionate Senior Software Engineer with over a decade of experience building robust, high-performance software solutions that align with business objectives and drive customer satisfaction.
 
-🚀 My tech stack includes PHP, Laravel, Java, ReactJS, and Flutter, along with mobile development for both Android and iOS platforms. I'm well-versed in containerization using Docker and experienced in implementing CI/CD pipelines. Git is my trusted companion for version control.
+My tech stack spans Node.js, PHP, Laravel, Java, ReactJS, and Flutter, with expertise in mobile development for both Android and iOS. I have deep experience in designing and scaling Laravel backends, and I’m well-versed in containerization with Docker and CI/CD pipelines. Git is my go-to tool for version control.
 
-☁️ My cloud expertise extends to Google Cloud Platform (GCP) and AWS, where I've harnessed the full potential of cloud services to scale applications, optimize performance, and enhance security.
+In the cloud, I’ve harnessed Google Cloud Platform (GCP) and AWS to architect scalable, secure, and high-performing applications.
+
+I’m also passionate about Artificial Intelligence, specializing in AI automation, intelligent workflows, and real-time data-driven systems that power next-generation applications.
 
 ---
 
